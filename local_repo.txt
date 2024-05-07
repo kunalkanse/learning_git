@@ -1,3 +1,5 @@
 This is new file created in local_repo 
 
 making changes from remote repo
+
+making changes to examine fetch command
